@@ -42,7 +42,7 @@ function Section({children, title}: SectionProps): JSX.Element {
         ]}>
         {title}
       </Text>
-      <Text>Hello</Text>
+      <Text>Akhter</Text>
       <Text
         style={[
           styles.sectionDescription,
